@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&lines=Cybersecurity+Student;Python+Developer;C%2B%2B+Enthusiast;Always+learning+new+things)](https://git.io/typing-svg)
 
 🎓 **BSc Computing - Cybersecurity** at Prague City University  
-🔐 **SOC Analyst** in training  
+🔐 **Software Engineer** in training  
 🐍 **Python** and **C/C++** developer  
 
 ---
@@ -19,6 +19,10 @@
 ### 🔐 Cybersecurity
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![MITRE ATT&CK](https://img.shields.io/badge/-MITRE%20ATT%26CK-FF0000?style=for-the-badge&logoColor=white)
+![Volatility](https://img.shields.io/badge/-Volatility-2F4F4F?style=for-the-badge&logoColor=white)
+![Snort](https://img.shields.io/badge/-Snort%20IDS-FF6B35?style=for-the-badge&logoColor=white)
 
 ### 🌱 Learning
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -49,17 +53,6 @@
 
 ---
 
-## 📊 GitHub Statistics
-
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=HectorPeralta12&theme=radical&show_icons=true&hide_border=true" />
-<img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HectorPeralta12&layout=compact&theme=radical&hide_border=true" />
-
-<br clear="both" />
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=HectorPeralta12&theme=radical&hide_border=true)
-
----
-
 ## 🎯 Certifications
 
 🔐 **Google Cybersecurity Professional Certificate**  
@@ -70,8 +63,7 @@
 
 ## 🌍 About Me
 
-- 🎓 **Cybersecurity** student in Prague
-- 🏊‍♂️ Passionate about **swimming** and **running**
+- 🎓 **Computing - Cybersecurity** student in Prague
 - 🤖 Interested in **AI** and **Cybersecurity** innovation
 - 🌎 **Native Spanish**, **Professional English**
 - 📚 Always taking **online courses** to keep learning
