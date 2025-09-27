@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&lines=Cybersecurity+Student;Python+Developer;C%2B%2B+Enthusiast;Always+learning+new+things)](https://git.io/typing-svg)
 
-🎓 **BSc Computing - Cybersecurity** at Prague City University  
+🎓 **BSc Computing - Cybersecurity** at TU Prague City 
 🔐 **Software Engineer** in training  
 🐍 **Python** and **C/C++** developer  
 
