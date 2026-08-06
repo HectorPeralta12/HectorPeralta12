@@ -1,9 +1,9 @@
 # 👋 Hi, I'm Héctor David Peralta Ramírez
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&lines=Cybersecurity+Student;Python+Developer;C%2B%2B+Enthusiast;Always+learning+new+things)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&lines=Cybersecurity+Graduate;Python+Developer)](https://git.io/typing-svg)
 
 🎓 **BSc Computing - Cybersecurity** at TU Prague City 
-🔐 **Software Engineer** in training  
+🔐 **Software Engineer**   
 🐍 **Python** and **C/C++** developer  
 
 ---
@@ -14,7 +14,6 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
 
 ### 🔐 Cybersecurity
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -63,7 +62,7 @@
 
 ## 🌍 About Me
 
-- 🎓 **Computing - Cybersecurity** student in Prague
+- 🎓 **Computing - Cybersecurity** graduate in Prague
 - 🤖 Interested in **AI** and **Cybersecurity** innovation
 - 🌎 **Native Spanish**, **Professional English**
 - 📚 Always taking **online courses** to keep learning
