@@ -4,7 +4,7 @@
 
 🎓 **BSc Computing - Cybersecurity** at TU Prague City 
 🔐 **Software Engineer**   
-🐍 **Python** and **C/C++** developer  
+🐍 **Python** and **C** developer  
 
 ---
 
