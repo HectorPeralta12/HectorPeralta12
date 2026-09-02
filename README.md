@@ -2,10 +2,10 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&lines=Cybersecurity+Graduate;Python+Developer)](https://git.io/typing-svg)
 
-   **BSc Computing - Cybersecurity** at Teesside University
-   **MSc Artificial Intelligence** at Charles University (MATFYZ)
-   **Software Engineer**   
-   **Python** and **C** developer  
+   - **BSc Computing - Cybersecurity** at Teesside University
+   - **MSc Artificial Intelligence** at Charles University (MATFYZ)
+   - **Software Engineer**
+   - **Python** and **C** developer  
 
 ---
 
