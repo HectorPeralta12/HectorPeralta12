@@ -1,74 +1,34 @@
-# Hi, I'm Héctor David Peralta Ramírez
+# Hey, I'm Héctor
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&lines=Cybersecurity+Graduate;Python+Developer)](https://git.io/typing-svg)
+I'm a software developer based in Prague, currently starting an MSc in
+Computer Science – Artificial Intelligence at Charles University.
 
-   - **BSc Computing - Cybersecurity** at Teesside University
-   - **MSc Artificial Intelligence** at Charles University (MATFYZ)
-   - **Software Engineer**
-   - **Python** and **C** developer  
+I enjoy working with Python and backend development, and I'm currently
+learning more about machine learning and how to apply it to real-world
+problems.
 
----
-
-## 🛠️ Technologies & Tools
-
-### Programming Languages
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
-
-### Cybersecurity
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![MITRE ATT&CK](https://img.shields.io/badge/-MITRE%20ATT%26CK-FF0000?style=for-the-badge&logoColor=white)
-![Volatility](https://img.shields.io/badge/-Volatility-2F4F4F?style=for-the-badge&logoColor=white)
-![Snort](https://img.shields.io/badge/-Snort%20IDS-FF6B35?style=for-the-badge&logoColor=white)
-
+I also have a background in cybersecurity, which got me interested in
+how software, systems, and security work together.
 
 ---
 
-## Featured Projects
+## Tools & Tech
 
-### Markov Chain Simulation
-**Python** | Human vs Axolotl regeneration simulation
-- Recognized as one of the best projects of the year at Teesside University
-- Markov chain implementation for biological modeling
-- Complete documentation and statistical analysis
-
-### Parking Management System  
-**C++** | Public parking lot management system
-- Employee authentication through file system
-- Dynamic pricing system with discounts
-- Intuitive console interface
-
-### Custom C Library
-**C** | Built from scratch C library
-- Recreation of standard functions (string handling, memory operations)
-- Focus on low-level programming and memory management
-- Deep understanding of system fundamentals
+- Python, Java, SQL
+- Django, Django REST Framework, FastAPI
+- scikit-learn, XGBoost, pandas
+- PostgreSQL, Git, Linux
 
 ---
 
-## Certifications
+## Currently
 
- **Google Cybersecurity Professional Certificate**  
- **LetsDefend SOC Analyst Path**  
- **SOC 101 - TCM Academy**
+- Learning machine learning
+- Improving my Python and backend development skills
+- Practicing algorithms and data structures
+- Building projects around problems I find interesting
 
----
+- Google Cybersecurity Professional Certificate
+- LetsDefend SOC Analyst Path
+- SOC 101 – TCM Security
 
-## About Me
-
-- **Computing - Cybersecurity** graduate
-- Interested in **AI** and **Cybersecurity** innovation
-- **Native Spanish**, **Professional English**
-- Always taking **online courses** to keep learning
-
----
-
-## Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hectorperram/)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hector.peralta@praguecollege.cz)
-
----
